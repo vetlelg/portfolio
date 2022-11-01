@@ -7,6 +7,7 @@ export class Home extends Component {
     return (
       <div>
         <h1>Portfolio</h1>
+        <p>I'm studying Computer Science and Engineering at university and I'm trying to learn by working on projects and exploring different languages and technologies while finishing my degree.</p>
       </div>
     );
   }
