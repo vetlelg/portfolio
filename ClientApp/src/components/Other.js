@@ -7,7 +7,7 @@ export class Other extends Component {
         return (
             <div>
                 <h1>Other</h1>
-                <h2><a href="">Graphics renderer in plain Java</a></h2>
+                <h2>Graphics renderer in plain Java</h2>
             </div>
         );
     }
